@@ -47,7 +47,7 @@
     <string name="canceled">Скасовано</string>
     <string name="account_already_exists">Акаунт вже існує</string>
     <string name="error_login">Помилка входу</string>
-    <string name="account_setup">Account setup</string>
+    <string name="account_setup">Підключення акаунту</string>
     <string name="ngw_settings">Налаштування NextGIS Web</string>
     <string name="add_account">Додати акаунт</string>
     <string name="add_account_summary">Додати акаунт NextGIS Web</string>
